@@ -1,0 +1,47 @@
+{
+    "card_count": 15,
+    "description": "Master's Edition 1 Draft Booster Pack",
+    "name": "Master's Edition 1",
+    "set_code": "me1",
+    "filter": "",
+    "slots": [
+        {
+            "filter": "set:me1 rarity:c -type:basic",
+            "count": 9
+        },
+        {
+            "options": [
+                {
+                    "filter": "rarity:c",
+                    "weight": 52
+                },
+                {
+                    "filter": "rarity:c",
+                    "weight": 10
+                },
+                {
+                    "filter": "rarity:u",
+                    "weight": 3
+                },
+                {
+                    "filter": "rarity:r",
+                    "weight": 1
+                }
+            ],
+            "filter": "set:me1",
+            "count": 1
+        },
+        {
+            "filter": "set:me1 rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:me1 rarity:r",
+            "count": 1
+        },
+        {
+            "filter": "set:me1 rarity:c type:basic",
+            "count": 1
+        }
+    ]
+}

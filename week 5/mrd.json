@@ -1,0 +1,25 @@
+{
+    "card_count": 15,
+    "description": "Mirrodin Draft Booster Pack",
+    "name": "Mirrodin",
+    "set_code": "mrd",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:mrd rarity:c -type:basic",
+            "count": 10
+        },
+        {
+            "filter": "set:mrd rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:mrd rarity:r",
+            "count": 1
+        },
+        {
+            "filter": "set:mrd type:basic",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "card_count": 15,
+    "description": "Future Sight Draft Booster Pack",
+    "name": "Future Sight",
+    "set_code": "fut",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:fut rarity:c is:futureshifted",
+            "count": 5
+        },
+        {
+            "filter": "set:fut rarity:c -is:futureshifted",
+            "count": 4
+        },
+        {
+            "options":[
+                {
+                    "filter":"is:futureshifted",
+                    "weight":1
+                },
+                {
+                    "filter":"-is:futureshifted",
+                    "weight":1
+                }
+            ],
+            "filter": "set:fut rarity:c",
+            "count": 1
+        },        
+        {
+            "options": [
+                {
+                    "filter": "rarity:c set:fut -is:futureshifted",
+                    "weight": 26
+                },
+                {
+                    "filter": "rarity:c set:fut is:futureshifted",
+                    "weight": 26
+                },
+                {
+                    "filter": "rarity:c set:fut",
+                    "weight": 10
+                },
+                {
+                    "filter": "rarity:u set:fut",
+                    "weight": 3
+                },
+                {
+                    "filter": "rarity:r set:fut",
+                    "weight": 1
+                }
+            ],
+            "filter": "",
+            "count": 1
+        },
+        {
+            "filter": "set:fut rarity:u -is:futureshifted",
+            "count": 1
+        },
+        {
+            "options":[
+                {
+                    "filter":"is:futureshifted",
+                    "weight":1
+                },
+                {
+                    "filter":"-is:futureshifted",
+                    "weight":1
+                }
+            ],
+            "filter": "set:fut rarity:u",
+            "count": 1
+        },
+        {
+            "options":[
+                {
+                    "filter":"is:futureshifted",
+                    "weight":1
+                },
+                {
+                    "filter":"-is:futureshifted",
+                    "weight":1
+                }
+            ],
+            "filter": "set:fut rarity:u",
+            "count": 1
+        },
+        {
+            "options":[
+                {
+                    "filter":"is:futureshifted",
+                    "weight":1
+                },
+                {
+                    "filter":"-is:futureshifted",
+                    "weight":1
+                }
+            ],
+            "filter": "set:fut rarity:r",
+            "count": 1
+        }
+    ]
+}

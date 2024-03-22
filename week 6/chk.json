@@ -1,0 +1,21 @@
+{
+    "card_count": 15,
+    "description": "Champions Of Kamigawa Draft Booster Pack",
+    "name": "Champions Of Kamigawa",
+    "set_code": "chk",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:chk rarity:c",
+            "count": 11
+        },
+        {
+            "filter": "set:chk rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:chk rarity:r",
+            "count": 1
+        }
+    ]
+}

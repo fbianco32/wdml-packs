@@ -1,0 +1,21 @@
+{
+    "card_count": 15,
+    "description": "Guildpact Draft Booster Pack",
+    "name": "Guildpact",
+    "set_code": "gpt",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:gpt rarity:c",
+            "count": 11
+        },
+        {
+            "filter": "set:gpt rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:gpt rarity:r",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "card_count": 15,
+    "description": "Coldsnap Draft Booster Pack",
+    "name": "Coldsnap",
+    "set_code": "csp",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:csp rarity:c",
+            "count": 11
+        },
+        {
+            "filter": "set:csp rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:csp rarity:r",
+            "count": 1
+        }
+    ]
+}

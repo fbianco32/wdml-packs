@@ -1,0 +1,21 @@
+{
+    "card_count": 15,
+    "description": "Fifth Dawn Draft Booster Pack",
+    "name": "Fifth Dawn",
+    "set_code": "5dn",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:5dn rarity:c -type:basic",
+            "count": 11
+        },
+        {
+            "filter": "set:5dn rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:5dn rarity:r",
+            "count": 1
+        }
+    ]
+}

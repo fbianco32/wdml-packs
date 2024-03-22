@@ -1,0 +1,62 @@
+{
+    "card_count": 15,
+    "description": "Planar Chaos Draft Booster Pack",
+    "name": "Planar Chaos",
+    "set_code": "plc",
+    "filter": "game:paper",
+    
+    "slots": [
+        {
+            "filter": "set:plc rarity:c -frame:colorshifted",
+            "count": 7
+        },        
+        {
+            "options": [
+                {
+                    "filter": "rarity:c set:plc",
+                    "weight": 52
+                },
+                {
+                    "filter": "rarity:c set:plc",
+                    "weight": 10
+                },
+                {
+                    "filter": "rarity:u set:plc",
+                    "weight": 3
+                },
+                {
+                    "filter": "rarity:r set:plc",
+                    "weight": 1
+                }
+            ],
+            "filter": "",
+            "count": 1
+        },
+        {
+            "filter": "set:plc rarity:c frame:colorshifted",
+            "count": 3
+        },
+        {
+            "filter": "set:plc rarity:u -frame:colorshifted",
+            "count": 2
+        },
+        {
+            "filter": "set:plc rarity:r -frame:colorshifted",
+            "count": 1
+        },
+        {
+            "options": [
+                {
+                    "filter":"rarity:u",
+                    "weight": 3
+                },
+                {
+                    "filter":"rarity:r",
+                    "weight": 1
+                }
+            ],
+            "filter": "set:plc frame:colorshifted",
+            "count": 1
+        }
+    ]
+}

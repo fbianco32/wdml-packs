@@ -1,0 +1,21 @@
+{
+    "card_count": 15,
+    "description": "Betrayers Of Kamigawa Draft Booster Pack",
+    "name": "Betrayers Of Kamigawa",
+    "set_code": "bok",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:bok rarity:c -type:basic",
+            "count": 11
+        },
+        {
+            "filter": "set:bok rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:bok rarity:r",
+            "count": 1
+        }
+    ]
+}

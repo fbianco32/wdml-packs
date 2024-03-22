@@ -1,0 +1,21 @@
+{
+    "card_count": 15,
+    "description": "Ravnica Draft Booster Pack",
+    "name": "Ravnica",
+    "set_code": "rav",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:rav rarity:c",
+            "count": 11
+        },
+        {
+            "filter": "set:rav rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:rav rarity:r",
+            "count": 1
+        }
+    ]
+}

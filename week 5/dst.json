@@ -1,0 +1,21 @@
+{
+    "card_count": 15,
+    "description": "Darksteel Draft Booster Pack",
+    "name": "Darksteel",
+    "set_code": "dst",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:dst rarity:c -type:basic",
+            "count": 11
+        },
+        {
+            "filter": "set:dst rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:dst rarity:r",
+            "count": 1
+        }
+    ]
+}

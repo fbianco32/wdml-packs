@@ -1,0 +1,21 @@
+{
+    "card_count": 15,
+    "description": "Dissention Draft Booster Pack",
+    "name": "Dissention",
+    "set_code": "dis",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:dis rarity:c",
+            "count": 11
+        },
+        {
+            "filter": "set:dis rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:dis rarity:r",
+            "count": 1
+        }
+    ]
+}

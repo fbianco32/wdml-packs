@@ -1,0 +1,47 @@
+{
+    "card_count": 15,
+    "description": "Master's Edition 2 Draft Booster Pack",
+    "name": "Master's Edition 2",
+    "set_code": "me2",
+    "filter": "",
+    "slots": [
+        {
+            "filter": "set:me2 rarity:c -type:snow",
+            "count": 9
+        },
+        {
+            "options": [
+                {
+                    "filter": "rarity:c",
+                    "weight": 52
+                },
+                {
+                    "filter": "rarity:c",
+                    "weight": 10
+                },
+                {
+                    "filter": "rarity:u",
+                    "weight": 3
+                },
+                {
+                    "filter": "rarity:r",
+                    "weight": 1
+                }
+            ],
+            "filter": "set:me2",
+            "count": 1
+        },
+        {
+            "filter": "set:me2 rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:me2 rarity:r",
+            "count": 1
+        },
+        {
+            "filter": "set:me2 rarity:c type:snow",
+            "count": 1
+        }
+    ]
+}

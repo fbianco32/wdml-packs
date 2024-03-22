@@ -1,0 +1,47 @@
+{
+    "card_count": 15,
+    "description": "Master's Edition 4 Draft Booster Pack",
+    "name": "Master's Edition 4",
+    "set_code": "me4",
+    "filter": "",
+    "slots": [
+        {
+            "filter": "set:me4 rarity:c -type:urza's",
+            "count": 9
+        },
+        {
+            "options": [
+                {
+                    "filter": "rarity:c",
+                    "weight": 52
+                },
+                {
+                    "filter": "rarity:c",
+                    "weight": 10
+                },
+                {
+                    "filter": "rarity:u",
+                    "weight": 3
+                },
+                {
+                    "filter": "rarity:r",
+                    "weight": 1
+                }
+            ],
+            "filter": "set:me4",
+            "count": 1
+        },
+        {
+            "filter": "set:me4 rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:me4 rarity:r",
+            "count": 1
+        },
+        {
+            "filter": "set:me4 rarity:c type:urza's",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "card_count": 15,
+    "description": "9th Edition Draft Booster Pack",
+    "name": "9th Edition",
+    "set_code": "9ed",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:9ed rarity:c -type:basic",
+            "count": 10
+        },
+        {
+            "filter": "set:9ed rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:9ed rarity:r",
+            "count": 1
+        },
+        {
+            "filter": "set:9ed type:basic",
+            "count": 1
+        }
+    ]
+}

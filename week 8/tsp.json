@@ -1,0 +1,51 @@
+{
+    "card_count": 15,
+    "description": "Time Spiral Draft Booster Pack",
+    "name": "Time Spiral",
+    "set_code": "tsp",
+    "filter": "game:paper",
+    "slots": [
+        {
+            "filter": "set:tsp rarity:c",
+            "count": 9
+        },
+        {
+            "options": [
+                {
+                    "filter": "rarity:c set:tsp",
+                    "weight": 52
+                },
+                {
+                    "filter": "rarity:c set:tsp",
+                    "weight": 10
+                },
+                {
+                    "filter": "rarity:u set:tsp",
+                    "weight": 3
+                },
+                {
+                    "filter": "rarity:r set:tsp",
+                    "weight": 1
+                },
+                {
+                    "filter": "set:tsb",
+                    "weight": 1
+                }
+            ],
+            "filter": "",
+            "count": 1
+        },
+        {
+            "filter": "set:tsp rarity:u",
+            "count": 3
+        },
+        {
+            "filter": "set:tsp rarity:r",
+            "count": 1
+        },
+        {
+            "filter": "set:tsb",
+            "count": 1
+        }
+    ]
+}
