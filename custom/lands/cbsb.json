@@ -7,7 +7,7 @@
     "slots": [
         {
             "count":50,
-            "filter":"date>=usg date<mrd type:swamp (st:core or st:expansion) unique:art"
+            "filter":"e:10e type:swamp (st:core or st:expansion)"
         }
     ]
 }
