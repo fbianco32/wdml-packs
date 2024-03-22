@@ -1,0 +1,13 @@
+{
+    "card_count": 50,
+    "description": "50 Assorted plains",
+    "name": "Basic Land Starter Pack - White",
+    "set_code": "cbsw",
+    "filter": "type:basic game:paper",
+    "slots": [
+        {
+            "count":50,
+            "filter":"date>=usg date<mrd type:plains (st:core or st:expansion)"
+        }
+    ]
+}

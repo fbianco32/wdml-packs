@@ -1,0 +1,13 @@
+{
+    "card_count": 50,
+    "description": "50 Assorted Mountains",
+    "name": "Basic Land Starter Pack - Red",
+    "set_code": "cbsr",
+    "filter": "type:basic game:paper",
+    "slots": [
+        {
+            "count":50,
+            "filter":"date>=usg date<mrd type:mountain (st:core or st:expansion)"
+        }
+    ]
+}
